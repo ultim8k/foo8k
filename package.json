@@ -1,0 +1,23 @@
+{
+  "name": "foo8k",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultim8k/foo8k.git"
+  },
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "bugs": {
+    "url": "https://github.com/ultim8k/foo8k/issues"
+  },
+  "dependencies": {
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
